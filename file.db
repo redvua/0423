@@ -1,0 +1,30 @@
+##
+## for (( i=6; i<31; i++ ))
+## do echo "line $i: $RANDOM"
+## done >> file.db
+##
+line 6: 153
+line 7: 31544
+line 8: 21391
+line 9: 2912
+line 10: 26908
+line 11: 27759
+line 12: 17151
+line 13: 7474
+line 14: 1186
+line 15: 7096
+line 16: 21969
+line 17: 17911
+line 18: 14624
+line 19: 13572
+line 20: 16927
+line 21: 18765
+line 22: 12547
+line 23: 27482
+line 24: 7911
+line 25: 7740
+line 26: 11246
+line 27: 27510
+line 28: 17031
+line 29: 22029
+line 30: 19770
